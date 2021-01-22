@@ -1,5 +1,5 @@
 {
-    "name": "apixu/apixu-php",
+    "name": "blue-energy/apixu-php",
     "type": "library",
     "description": "PHP library for Apixu Weather API",
     "keywords": ["apixu", "weather"],
@@ -11,6 +11,10 @@
             "email": "avramandrei@ymail.com",
             "homepage": "https://www.andreiavram.ro/",
             "role": "Developer"
+        },
+        {
+            "name": "Luis Sejer",
+            "email" : "lo@blueenergy.dk"
         }
     ],
     "require": {
